@@ -1,2 +1,4 @@
 # frontend-assesement-cometlabs
-![Screenshot (84)](https://user-images.githubusercontent.com/69303197/119978425-41ef2e80-bfd7-11eb-9f57-8a3af176d439.png)
+![image](https://user-images.githubusercontent.com/69303197/131636425-a49fd627-24dd-47b5-af74-1be609e71bb2.png)
+![image](https://user-images.githubusercontent.com/69303197/131636648-d16fbe46-1cda-4839-bff9-4246b4fa402a.png)
+
